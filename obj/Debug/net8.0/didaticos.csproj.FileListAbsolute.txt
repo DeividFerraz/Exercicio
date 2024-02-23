@@ -1,0 +1,14 @@
+C:\Users\deivi\source\repos\didaticos\didaticos\bin\Debug\net8.0\didaticos.exe
+C:\Users\deivi\source\repos\didaticos\didaticos\bin\Debug\net8.0\didaticos.deps.json
+C:\Users\deivi\source\repos\didaticos\didaticos\bin\Debug\net8.0\didaticos.runtimeconfig.json
+C:\Users\deivi\source\repos\didaticos\didaticos\bin\Debug\net8.0\didaticos.dll
+C:\Users\deivi\source\repos\didaticos\didaticos\bin\Debug\net8.0\didaticos.pdb
+C:\Users\deivi\source\repos\didaticos\didaticos\obj\Debug\net8.0\didaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deivi\source\repos\didaticos\didaticos\obj\Debug\net8.0\didaticos.AssemblyInfoInputs.cache
+C:\Users\deivi\source\repos\didaticos\didaticos\obj\Debug\net8.0\didaticos.AssemblyInfo.cs
+C:\Users\deivi\source\repos\didaticos\didaticos\obj\Debug\net8.0\didaticos.csproj.CoreCompileInputs.cache
+C:\Users\deivi\source\repos\didaticos\didaticos\obj\Debug\net8.0\didaticos.dll
+C:\Users\deivi\source\repos\didaticos\didaticos\obj\Debug\net8.0\refint\didaticos.dll
+C:\Users\deivi\source\repos\didaticos\didaticos\obj\Debug\net8.0\didaticos.pdb
+C:\Users\deivi\source\repos\didaticos\didaticos\obj\Debug\net8.0\didaticos.genruntimeconfig.cache
+C:\Users\deivi\source\repos\didaticos\didaticos\obj\Debug\net8.0\ref\didaticos.dll
