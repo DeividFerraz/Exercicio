@@ -22,7 +22,7 @@ namespace didaticos
         {
             #region "Diretorios"
             string diretorio_entrada = "Arquivo_Entrada";
-            //se o arquivo n existir, ele entra no if e constroi
+            //se o arquivo n existir, ele entra no if e constro
             if (!Directory.Exists(diretorio_entrada))
             {
                 //Serve para criar uma pasta
